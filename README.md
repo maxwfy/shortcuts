@@ -1,2 +1,2 @@
 # shortcuts display script
-alerts a message with shortcust function
+alerts a message with keyboard shortcuts function
